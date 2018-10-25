@@ -1,2 +1,2 @@
 # Education-journal
-Where I document my structured as well as my unstructured learning.
+WHere I am hosting some bookmarks/ webpages that I found helpful
